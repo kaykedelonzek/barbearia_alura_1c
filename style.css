@@ -4,12 +4,22 @@ body {
 .principal{
     background: #ccccc;
  padding: 30px;
+}
 #banner {
     width: 100%;
+}
+h1{
+    text-align: center;
 }
 p {
     text-align: center;
 }
+#missao{
+    font-size: 20px;
+}
 em strong {
     color:#FF0000;
+}
+.itens{
+    font-size:italic;
 }
